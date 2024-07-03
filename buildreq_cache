@@ -1,0 +1,7 @@
+1.4.1
+pkgconfig(gio-unix-2.0)
+pkgconfig(libvirt)
+pkgconfig(libvirt-glib-1.0)
+pkgconfig(systemd)
+pypi(gi)
+pypi(pytest)
